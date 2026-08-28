@@ -1,0 +1,20 @@
+# Environment variables
+.env
+.env.*
+
+# But keep the example template
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
