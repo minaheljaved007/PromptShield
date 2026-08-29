@@ -4,7 +4,7 @@ Gradio dashboard for PromptShield. This is what you demo live to judges:
 type a prompt, watch it get scored/blocked/allowed in real time, and see
 the running stats update.
 
-Run with: python3 dashboard.py
+Run with: python dashboard.py
 Requires the backend (main.py) to already be running on port 8000.
 """
 
