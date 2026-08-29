@@ -1,7 +1,7 @@
 """
 main.py
 FastAPI entry point. Exposes PromptShield as an actual HTTP API --
-this is what makes it a "gateway" rather than just a script. Any app
+this is what makes it a gateway rather than just a script. Any app
 could point requests here instead of calling the LLM directly.
 
 Run with: uvicorn main:app --reload --port 8000
