@@ -95,12 +95,3 @@ User prompt
 [dashboard.py] → Gradio UI that calls the API and renders verdict + live stats
 ```
 
-## Extending it (if you have time left)
-
-- **More attack patterns**: add entries to the lists in `patterns.py` —
-  each is just a regex string, no code changes needed elsewhere.
-- **Adjustable thresholds**: the 30/60 score cutoffs live in `patterns.py`
-  (`is_safe`, `is_suspicious`, `is_malicious`) — easy to tune live if a demo
-  prompt doesn't score the way you expect.
-- **Export the log**: `/log` endpoint already returns recent requests as
-  JSON — could add a CSV download button to the dashboard.
