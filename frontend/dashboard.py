@@ -12,7 +12,7 @@ import gradio as gr
 import requests
 import pandas as pd
 
-API_URL = "http://127.0.0.1:8000"
+API_URL = os.getenv("API_URL", "http://127.0.0.1:8000")
 
 # A handful of ready-made demo prompts so you're not typing live during
 # judging -- click one, it fills the box, you just hit submit.
