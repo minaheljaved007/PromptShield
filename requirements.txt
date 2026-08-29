@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+gradio
+groq
+python-dotenv
+pydantic
+requests
+pandas
