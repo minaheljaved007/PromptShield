@@ -286,6 +286,9 @@ Open the printed URL (typically `http://127.0.0.1:7860`).
 
 **Minahel Javed** — BS Artificial Intelligence, UET Lahore
 [github.com/minaheljaved007](https://github.com/minaheljaved007)
+**Sana Arshad** — BS Cyber Security, UET Lahore
+[github.com/Sana-Arshad797](https://github.com/Sana-Arshad797)
+
 
 ## 📄 License
 
